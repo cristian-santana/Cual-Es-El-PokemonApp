@@ -69,3 +69,7 @@ export default tseslint.config([
 ```
 <img width="662" height="578" alt="pokemonApp" src="https://github.com/user-attachments/assets/0c2e2517-4d1d-4716-b799-60ec45c3fef0" />
 
+<img width="721" height="600" alt="pokemonApp4" src="https://github.com/user-attachments/assets/fbf807d9-0ee8-4b6f-b69a-eecf64b038aa" />
+
+<img width="701" height="605" alt="pokemonApp1" src="https://github.com/user-attachments/assets/b4b7683e-5c62-4d6a-af22-62f09e813944" />
+<img width="708" height="593" alt="pokemonApp3" src="https://github.com/user-attachments/assets/aa81ad3d-2f01-4f9d-bbb9-8e4912ca96bb" />

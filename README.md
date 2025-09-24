@@ -67,3 +67,5 @@ export default tseslint.config([
   },
 ])
 ```
+<img width="662" height="578" alt="pokemonApp" src="https://github.com/user-attachments/assets/0c2e2517-4d1d-4716-b799-60ec45c3fef0" />
+
